@@ -1,1 +1,2 @@
-"# first_pr" 
+# first django project
+first
